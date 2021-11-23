@@ -12,7 +12,7 @@ requirements = [
     "tqdm",
     "Pillow",
     "entrypoints",
-    "numpy>=1.16.5, !=1.21.*",
+    "numpy>=1.16.5",
     "pandas>=1.2.0, !=1.3.0",
     "xarray==0.17.0",
     "netcdf4",
